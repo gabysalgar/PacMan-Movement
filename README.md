@@ -1,4 +1,4 @@
-# PacMan Horizontal Movement
+# PacMan-Movement
 
 ## Description
 A JavaScript animation that displays PacMan's back-and-forth horizontal motion within the bounds of a web page. This animation utilizes an array of four images that represent the different stages of the PacMan's movement, the mouth-open and mouth-closed in both the right and left directions. The running code  calls a function in 300ms intervals that passes four arguments, the PacMan's position & size, direction of motion, and screen edge size, in order to determine which PacMan image is to be sourced for each function call and in what direction it is moving.
