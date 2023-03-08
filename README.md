@@ -1,3 +1,4 @@
+![Screenshot](pacman.jpg)
 # PacMan-Movement
 
 ## Description
